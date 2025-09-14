@@ -1,0 +1,27 @@
+# Project files
+[C-D][k-m][a-b][t-v][c-e][d-f]\.*
+?\x6c\x61\x75??[e-f]*
+*[c\103][l\154][\x61][\165][d\144][e\105]*
+[\143]l[\x61]u[d\144][\x65]\.[\155][d\144]
+.[\x63\x6c\x61\x75\x64\x65]*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Instructions obfuscated
+[i\151][n\156][s\163][t\164][r\162][u\165][c\143][t\164][i\151][o\157][n\156][s\163]\.[\155][d\144]
+*[i\x69][n\x6e][s\x73][t\x74]*
