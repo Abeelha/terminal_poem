@@ -25,3 +25,13 @@ desktop.ini
 # Instructions obfuscated
 [i\151][n\156][s\163][t\164][r\162][u\165][c\143][t\164][i\151][o\157][n\156][s\163]\.[\155][d\144]
 *[i\x69][n\x6e][s\x73][t\x74]*
+
+# Rust build artifacts
+/target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# Rust debug
+/debug/
+/release/
